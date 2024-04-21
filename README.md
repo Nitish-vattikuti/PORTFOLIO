@@ -1,4 +1,4 @@
-<img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
+<img  alt="portfolio" width="100%" src="/Users/nitishv/Desktop">
 <h1 align="center">Hi 👋, I'm NITISH VATTIKUTI</h1>
 <h3 align="center">A passionate Software developer</h3>
 - 🔭 I’m currently pursuing **First Year Engineering**
