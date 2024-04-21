@@ -1,4 +1,4 @@
-<img  alt="portfolio" width="100%" src="[/Users/nitishv/Desktop](https://github.com/Nitish-vattikuti/PORTFOLIO/blob/main/portfolio_logo.png)">
+<img  alt="portfolio" width="100%" src="https://github.com/Nitish-vattikuti/PORTFOLIO/blob/main/portfolio_logo.png">
 <h1 align="center">Hi 👋, I'm NITISH VATTIKUTI</h1>
 <h3 align="center">A passionate Software developer</h3>
 - 🔭 I’m currently pursuing **First Year Engineering**
