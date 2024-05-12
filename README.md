@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 My portfolio website [https://github.com/Nitish-vattikuti/PORTFOLIO.git](https://github.com/Nitish-vattikuti/PORTFOLIO.git)
+- 👨‍💻 My portfolio website https://nitish-vattikuti.github.io/PORTFOLIO/
 
 - 💬 Ask me about **Python, C/C++, HTML, CSS**
 
